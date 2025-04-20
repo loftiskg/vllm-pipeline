@@ -1,5 +1,7 @@
 # vllm-pipeline
 
+Some learnings, notes and experimentation with [vllm](https://github.com/vllm-project/vllm) 
+
 ## Installation
 
 
